@@ -8,4 +8,4 @@ Start by running the server then running either the agent to do your own tests o
 Then run the jar file attached in release to try with a more user friendly enviroment, the port is: 12111
 
 
-The GUI is in the relase folder as it is a jar file, but the server needs its source downloading and class file created then run before trying to connect through the GUI.
+The GUI is in the release folder as it is a jar file, but the server needs its source downloading and class file created then run before trying to connect through the GUI.
